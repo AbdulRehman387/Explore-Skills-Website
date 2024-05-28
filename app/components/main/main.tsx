@@ -35,17 +35,17 @@ const Main = () => {
                     </div>
                     <div className="flex justify-center gap-x-8 mobile:flex-col mobile:px-5 mobile:gap-y-5">
                         <div className="flex flex-col items-center gap-y-5 w-[38%] h-auto text-center mobile:w-auto relative group">
-                            <img className="rounded-lg flex-[1]" src="/campus1.png" alt="Campus" />
+                            <img className="rounded-lg flex-[1]" src="/Campus1.png" alt="Campus" />
                             <div className="absolute top-0 w-full h-full bg-rgba-green opacity-0 group-hover:opacity-[0.3] transition-opacity ease-in-out duration-500"></div>
                             <h3 className="text-3xl text-white font-normal absolute -bottom-10 group-hover:bottom-[45%] transition-all ease-in-out duration-500">DELHI</h3>
                         </div>
                         <div className="flex flex-col items-center gap-y-5 w-[38%] h-auto text-center mobile:w-auto relative group">
-                            <img className="rounded-lg flex-[1]" src="/campus2.png" alt="Campus" />
+                            <img className="rounded-lg flex-[1]" src="/Campus2.png" alt="Campus" />
                             <div className="absolute top-0 w-full h-full bg-rgba-green opacity-0 group-hover:opacity-[0.3] transition-opacity ease-in-out duration-500"></div>
                             <h3 className="text-3xl text-white font-normal absolute -bottom-10 group-hover:bottom-[45%] transition-all ease-in-out duration-500">HYDERABAD</h3>
                         </div>
                         <div className="flex flex-col items-center gap-y-5 w-[38%] h-auto text-center mobile:w-auto relative group">
-                            <img className="rounded-lg flex-[1]" src="/campus3.png" alt="Campus" />
+                            <img className="rounded-lg flex-[1]" src="/Campus3.png" alt="Campus" />
                             <div className="absolute top-0 w-full h-full bg-rgba-green opacity-0 group-hover:opacity-[0.3] transition-opacity ease-in-out duration-500"></div>
                             <h3 className="text-3xl text-white font-normal absolute -bottom-10 group-hover:bottom-[45%] transition-all ease-in-out duration-500">MUMBAI</h3>
                         </div>
